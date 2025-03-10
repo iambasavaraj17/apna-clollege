@@ -1,4 +1,4 @@
 # apna-clollege
 First git repo
 <br>
-Author: Basavaraj
+Author: Basavaraj Laxmeshwar
